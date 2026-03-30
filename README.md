@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile IT Professional | Full-Stack Web Developer | <br>Angular, ASP.NET Core, C#, Blazor, SQL | P<br>assionate about Crafting Innovative Automation and <br>Digital Solutions for Web Development.<br><br>Intrested in learning AI 
+Versatile IT Professional | Full-Stack Web Developer | <br>Angular, ASP.NET Core, C#, Blazor, SQL,Python | P<br>assionate about Crafting Innovative Automation and <br>Digital Solutions for Web Development.<br><br>Intrested in learning AI 
 
 
 ## 🌐 Socials:
